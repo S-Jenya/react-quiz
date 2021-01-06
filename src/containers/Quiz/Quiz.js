@@ -5,7 +5,7 @@ class Quiz extends Component {
     render() {
         return (
             <div className={classes.Quiz}>
-                <h1>Quiz</h1>
+                <h1>My Quiz</h1>
             </div>
         )
     }
